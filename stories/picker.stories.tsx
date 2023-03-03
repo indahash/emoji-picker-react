@@ -159,6 +159,10 @@ export const CustomCategoryConfig = (args: Props) => (
         category: Categories.SMILEYS_PEOPLE
       },
       {
+        name: 'Most popular emojis',
+        category: Categories.MOST_POPULAR_EMOJIS
+      },
+      {
         name: 'Flags',
         category: Categories.FLAGS
       },

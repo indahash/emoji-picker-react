@@ -145,6 +145,7 @@ import { SkinTones } from 'emoji-picker-react';
   To only sort/omit categories, you can simply pass an array of category names to display:
 
   - 'suggested',
+  - 'most_popular_emojis',
   - 'smileys_people',
   - 'animals_nature',
   - 'food_drink',

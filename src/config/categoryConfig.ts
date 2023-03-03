@@ -4,6 +4,7 @@ export { Categories };
 
 const categoriesOrdered: Categories[] = [
   Categories.SUGGESTED,
+  Categories.MOST_POPULAR_EMOJIS,
   Categories.SMILEYS_PEOPLE,
   Categories.ANIMALS_NATURE,
   Categories.FOOD_DRINK,
@@ -11,60 +12,64 @@ const categoriesOrdered: Categories[] = [
   Categories.ACTIVITIES,
   Categories.OBJECTS,
   Categories.SYMBOLS,
-  Categories.FLAGS
+  Categories.FLAGS,
 ];
 
 export const SuggestedRecent: CategoryConfig = {
   name: 'Recently Used',
-  category: Categories.SUGGESTED
+  category: Categories.SUGGESTED,
 };
 
 const configByCategory: Record<Categories, CategoryConfig> = {
   [Categories.SUGGESTED]: {
     category: Categories.SUGGESTED,
-    name: 'Frequently Used'
+    name: 'Frequently Used',
+  },
+  [Categories.MOST_POPULAR_EMOJIS]: {
+    category: Categories.MOST_POPULAR_EMOJIS,
+    name: 'Most popular emojis',
   },
   [Categories.SMILEYS_PEOPLE]: {
     category: Categories.SMILEYS_PEOPLE,
-    name: 'Smileys & People'
+    name: 'Smileys & People',
   },
   [Categories.ANIMALS_NATURE]: {
     category: Categories.ANIMALS_NATURE,
-    name: 'Animals & Nature'
+    name: 'Animals & Nature',
   },
   [Categories.FOOD_DRINK]: {
     category: Categories.FOOD_DRINK,
-    name: 'Food & Drink'
+    name: 'Food & Drink',
   },
   [Categories.TRAVEL_PLACES]: {
     category: Categories.TRAVEL_PLACES,
-    name: 'Travel & Places'
+    name: 'Travel & Places',
   },
   [Categories.ACTIVITIES]: {
     category: Categories.ACTIVITIES,
-    name: 'Activities'
+    name: 'Activities',
   },
   [Categories.OBJECTS]: {
     category: Categories.OBJECTS,
-    name: 'Objects'
+    name: 'Objects',
   },
   [Categories.SYMBOLS]: {
     category: Categories.SYMBOLS,
-    name: 'Symbols'
+    name: 'Symbols',
   },
   [Categories.FLAGS]: {
     category: Categories.FLAGS,
-    name: 'Flags'
-  }
+    name: 'Flags',
+  },
 };
 
 export function baseCategoriesConfig(
   modifiers?: Record<Categories, CategoryConfig>
 ): CategoriesConfig {
-  return categoriesOrdered.map(category => {
+  return categoriesOrdered.map((category) => {
     return {
       ...configByCategory[category],
-      ...(modifiers && modifiers[category] && modifiers[category])
+      ...(modifiers && modifiers[category] && modifiers[category]),
     };
   });
 }
@@ -101,14 +106,14 @@ export function mergeCategoriesConfig(
     return base;
   }
 
-  return userCategoriesConfig.map(category => {
+  return userCategoriesConfig.map((category) => {
     if (typeof category === 'string') {
       return getBaseConfigByCategory(category, extra[category]);
     }
 
     return {
       ...getBaseConfigByCategory(category.category, extra[category.category]),
-      ...category
+      ...category,
     };
   });
 }
