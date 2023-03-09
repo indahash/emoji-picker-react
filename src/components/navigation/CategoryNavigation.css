@@ -11,7 +11,7 @@
   position: relative;
   height: var(--epr-category-navigation-button-size);
   width: var(--epr-category-navigation-button-size);
-  background-size: calc(var(--epr-category-navigation-button-size) * 10);
+  background-size: calc(var(--epr-category-navigation-button-size) * 11);
   outline: none;
 }
 
@@ -85,29 +85,32 @@ aside.EmojiPickerReact.epr-main:has(input:placeholder-shown) .epr-category-nav {
   background-position-y: calc(var(--epr-category-navigation-button-size) * 3);
 }
 .EmojiPickerReact button.epr-cat-btn.epr-icn-suggested {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -8);
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -9);
 }
 .EmojiPickerReact button.epr-cat-btn.epr-icn-activities {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -4);
-}
-.EmojiPickerReact button.epr-cat-btn.epr-icn-animals_nature {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -1);
-}
-.EmojiPickerReact button.epr-cat-btn.epr-icn-flags {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -7);
-}
-.EmojiPickerReact button.epr-cat-btn.epr-icn-food_drink {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -2);
-}
-.EmojiPickerReact button.epr-cat-btn.epr-icn-objects {
   background-position-x: calc(var(--epr-category-navigation-button-size) * -5);
 }
+.EmojiPickerReact button.epr-cat-btn.epr-icn-animals_nature {
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -2);
+}
+.EmojiPickerReact button.epr-cat-btn.epr-icn-flags {
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -8);
+}
+.EmojiPickerReact button.epr-cat-btn.epr-icn-food_drink {
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -3);
+}
+.EmojiPickerReact button.epr-cat-btn.epr-icn-objects {
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -6);
+}
 .EmojiPickerReact button.epr-cat-btn.epr-icn-smileys_people {
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -1);
+}
+.EmojiPickerReact button.epr-cat-btn.epr-icn-most-popular-emojis {
   background-position-x: 0px;
 }
 .EmojiPickerReact button.epr-cat-btn.epr-icn-symbols {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -6);
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -7);
 }
 .EmojiPickerReact button.epr-cat-btn.epr-icn-travel_places {
-  background-position-x: calc(var(--epr-category-navigation-button-size) * -3);
+  background-position-x: calc(var(--epr-category-navigation-button-size) * -4);
 }

@@ -1,214 +1,225 @@
 {
   "most_popular_emojis": [
-    { "n": ["grinning", "grinning face"], "u": "1f600", "a": "1.0" },
+    { "n": ["rainbow"], "u": "1f308", "a": "0.6" },
+    { "n": ["camera with flash"], "u": "1f4f8", "a": "1.0" },
+    { "n": ["ring"], "u": "1f48d", "a": "0.6" },
     {
-      "n": ["smiley", "smiling face with open mouth"],
-      "u": "1f603",
-      "a": "0.6"
-    },
-    {
-      "n": ["smile", "smiling face with open mouth and smiling eyes"],
-      "u": "1f604",
-      "a": "0.6"
-    },
-    {
-      "n": ["grin", "grinning face with smiling eyes"],
-      "u": "1f601",
-      "a": "0.6"
-    },
-    {
-      "n": [
-        "laughing",
-        "satisfied",
-        "smiling face with open mouth and tightly-closed eyes"
+      "n": ["muscle", "flexed biceps"],
+      "u": "1f4aa",
+      "v": [
+        "1f4aa-1f3fb",
+        "1f4aa-1f3fc",
+        "1f4aa-1f3fd",
+        "1f4aa-1f3fe",
+        "1f4aa-1f3ff"
       ],
-      "u": "1f606",
       "a": "0.6"
     },
+    { "n": ["trophy"], "u": "1f3c6", "a": "0.6" },
+    { "n": ["movie camera"], "u": "1f3a5", "a": "0.6" },
+    { "n": ["mortar board", "graduation cap"], "u": "1f393", "a": "0.6" },
+    { "n": ["computer", "personal computer"], "u": "1f4bb", "a": "0.6" },
+    { "n": ["books"], "u": "1f4da", "a": "0.6" },
+    { "n": ["pushpin"], "u": "1f4cc", "a": "0.6" },
     {
-      "n": ["sweat smile", "smiling face with open mouth and cold sweat"],
-      "u": "1f605",
-      "a": "0.6"
-    },
-    { "n": ["rolling on the floor laughing"], "u": "1f923", "a": "3.0" },
-    { "n": ["joy", "face with tears of joy"], "u": "1f602", "a": "0.6" },
-    { "n": ["slightly smiling face"], "u": "1f642", "a": "1.0" },
-    { "n": ["upside-down face", "upside down face"], "u": "1f643", "a": "1.0" },
-    { "n": ["melting face"], "u": "1fae0", "a": "14.0" },
-    { "n": ["wink", "winking face"], "u": "1f609", "a": "0.6" },
-    {
-      "n": ["blush", "smiling face with smiling eyes"],
-      "u": "1f60a",
-      "a": "0.6"
-    },
-    { "n": ["innocent", "smiling face with halo"], "u": "1f607", "a": "1.0" },
-    {
-      "n": [
-        "smiling face with 3 hearts",
-        "smiling face with smiling eyes and three hearts"
+      "n": ["girl"],
+      "u": "1f467",
+      "v": [
+        "1f467-1f3fb",
+        "1f467-1f3fc",
+        "1f467-1f3fd",
+        "1f467-1f3fe",
+        "1f467-1f3ff"
       ],
-      "u": "1f970",
-      "a": "11.0"
-    },
-    {
-      "n": ["heart eyes", "smiling face with heart-shaped eyes"],
-      "u": "1f60d",
       "a": "0.6"
     },
+    { "n": ["palm tree"], "u": "1f334", "a": "0.6" },
+    { "n": ["dog", "dog face"], "u": "1f436", "a": "0.6" },
+    { "n": ["clapper", "clapper board"], "u": "1f3ac", "a": "0.6" },
+    { "n": ["camera"], "u": "1f4f7", "a": "0.6" },
+    { "n": ["microphone"], "u": "1f3a4", "a": "0.6" },
     {
-      "n": ["star-struck", "grinning face with star eyes"],
-      "u": "1f929",
-      "a": "5.0"
-    },
-    {
-      "n": ["kissing heart", "face throwing a kiss"],
-      "u": "1f618",
-      "a": "0.6"
-    },
-    { "n": ["kissing", "kissing face"], "u": "1f617", "a": "1.0" },
-    { "n": ["relaxed", "white smiling face"], "u": "263a-fe0f", "a": "0.6" },
-    {
-      "n": ["kissing closed eyes", "kissing face with closed eyes"],
-      "u": "1f61a",
-      "a": "0.6"
-    },
-    {
-      "n": ["kissing smiling eyes", "kissing face with smiling eyes"],
-      "u": "1f619",
-      "a": "1.0"
-    },
-    { "n": ["smiling face with tear"], "u": "1f972", "a": "13.0" },
-    { "n": ["yum", "face savouring delicious food"], "u": "1f60b", "a": "0.6" },
-    {
-      "n": ["stuck out tongue", "face with stuck-out tongue"],
-      "u": "1f61b",
-      "a": "1.0"
-    },
-    {
-      "n": [
-        "stuck out tongue winking eye",
-        "face with stuck-out tongue and winking eye"
+      "n": ["boy"],
+      "u": "1f466",
+      "v": [
+        "1f466-1f3fb",
+        "1f466-1f3fc",
+        "1f466-1f3fd",
+        "1f466-1f3fe",
+        "1f466-1f3ff"
       ],
-      "u": "1f61c",
+      "a": "0.6"
+    },
+    { "n": ["herb"], "u": "1f33f", "a": "0.6" },
+    { "n": ["seedling"], "u": "1f331", "a": "0.6" },
+    { "n": ["house with garden"], "u": "1f3e1", "a": "0.6" },
+    { "n": ["sunflower"], "u": "1f33b", "a": "0.6" },
+    {
+      "n": ["dancer"],
+      "u": "1f483",
+      "v": [
+        "1f483-1f3fb",
+        "1f483-1f3fc",
+        "1f483-1f3fd",
+        "1f483-1f3fe",
+        "1f483-1f3ff"
+      ],
+      "a": "0.6"
+    },
+    { "n": ["lipstick"], "u": "1f484", "a": "0.6" },
+    {
+      "n": ["baby"],
+      "u": "1f476",
+      "v": [
+        "1f476-1f3fb",
+        "1f476-1f3fc",
+        "1f476-1f3fd",
+        "1f476-1f3fe",
+        "1f476-1f3ff"
+      ],
       "a": "0.6"
     },
     {
-      "n": ["zany face", "grinning face with one large and one small eye"],
-      "u": "1f92a",
-      "a": "5.0"
-    },
-    {
-      "n": [
-        "stuck out tongue closed eyes",
-        "face with stuck-out tongue and tightly-closed eyes"
+      "n": ["artist"],
+      "u": "1f9d1-200d-1f3a8",
+      "v": [
+        "1f9d1-1f3fb-200d-1f3a8",
+        "1f9d1-1f3fc-200d-1f3a8",
+        "1f9d1-1f3fd-200d-1f3a8",
+        "1f9d1-1f3fe-200d-1f3a8",
+        "1f9d1-1f3ff-200d-1f3a8"
       ],
-      "u": "1f61d",
-      "a": "0.6"
+      "a": "12.1"
     },
-    { "n": ["money-mouth face", "money mouth face"], "u": "1f911", "a": "1.0" },
-    { "n": ["hugging face"], "u": "1f917", "a": "1.0" },
+    { "n": ["house", "house building"], "u": "1f3e0", "a": "0.6" },
+    { "n": ["feet", "paw prints"], "u": "1f43e", "a": "0.6" },
+    { "n": ["headphone", "headphones"], "u": "1f3a7", "a": "0.6" },
+    { "n": ["shopping bags"], "u": "1f6cd-fe0f", "a": "0.7" },
+    { "n": ["tv", "television"], "u": "1f4fa", "a": "0.6" },
     {
-      "n": [
-        "face with hand over mouth",
-        "smiling face with smiling eyes and hand covering mouth"
+      "n": ["weight lifter", "person lifting weights"],
+      "u": "1f3cb-fe0f",
+      "v": [
+        "1f3cb-1f3fb",
+        "1f3cb-1f3fc",
+        "1f3cb-1f3fd",
+        "1f3cb-1f3fe",
+        "1f3cb-1f3ff"
       ],
-      "u": "1f92d",
-      "a": "5.0"
-    },
-    {
-      "n": ["face with open eyes and hand over mouth"],
-      "u": "1fae2",
-      "a": "14.0"
-    },
-    { "n": ["face with peeking eye"], "u": "1fae3", "a": "14.0" },
-    {
-      "n": ["shushing face", "face with finger covering closed lips"],
-      "u": "1f92b",
-      "a": "5.0"
-    },
-    { "n": ["thinking face"], "u": "1f914", "a": "1.0" },
-    { "n": ["saluting face"], "u": "1fae1", "a": "14.0" },
-    {
-      "n": ["zipper-mouth face", "zipper mouth face"],
-      "u": "1f910",
-      "a": "1.0"
-    },
-    {
-      "n": ["face with raised eyebrow", "face with one eyebrow raised"],
-      "u": "1f928",
-      "a": "5.0"
-    },
-    { "n": ["neutral face"], "u": "1f610", "a": "0.7" },
-    {
-      "n": ["expressionless", "expressionless face"],
-      "u": "1f611",
-      "a": "1.0"
-    },
-    { "n": ["no mouth", "face without mouth"], "u": "1f636", "a": "1.0" },
-    { "n": ["dotted line face"], "u": "1fae5", "a": "14.0" },
-    { "n": ["face in clouds"], "u": "1f636-200d-1f32b-fe0f", "a": "13.1" },
-    { "n": ["smirk", "smirking face"], "u": "1f60f", "a": "0.6" },
-    { "n": ["unamused", "unamused face"], "u": "1f612", "a": "0.6" },
-    { "n": ["face with rolling eyes"], "u": "1f644", "a": "1.0" },
-    { "n": ["grimacing", "grimacing face"], "u": "1f62c", "a": "1.0" },
-    { "n": ["face exhaling"], "u": "1f62e-200d-1f4a8", "a": "13.1" },
-    { "n": ["lying face"], "u": "1f925", "a": "3.0" },
-    { "n": ["relieved", "relieved face"], "u": "1f60c", "a": "0.6" },
-    { "n": ["pensive", "pensive face"], "u": "1f614", "a": "0.6" },
-    { "n": ["sleepy", "sleepy face"], "u": "1f62a", "a": "0.6" },
-    { "n": ["drooling face"], "u": "1f924", "a": "3.0" },
-    { "n": ["sleeping", "sleeping face"], "u": "1f634", "a": "1.0" },
-    { "n": ["mask", "face with medical mask"], "u": "1f637", "a": "0.6" },
-    { "n": ["face with thermometer"], "u": "1f912", "a": "1.0" },
-    {
-      "n": ["face with head-bandage", "face with head bandage"],
-      "u": "1f915",
-      "a": "1.0"
-    },
-    { "n": ["nauseated face"], "u": "1f922", "a": "3.0" },
-    {
-      "n": ["face vomiting", "face with open mouth vomiting"],
-      "u": "1f92e",
-      "a": "5.0"
-    },
-    { "n": ["sneezing face"], "u": "1f927", "a": "3.0" },
-    { "n": ["hot face", "overheated face"], "u": "1f975", "a": "11.0" },
-    { "n": ["cold face", "freezing face"], "u": "1f976", "a": "11.0" },
-    {
-      "n": ["woozy face", "face with uneven eyes and wavy mouth"],
-      "u": "1f974",
-      "a": "11.0"
-    },
-    { "n": ["dizzy face"], "u": "1f635", "a": "0.6" },
-    { "n": ["face with spiral eyes"], "u": "1f635-200d-1f4ab", "a": "13.1" },
-    {
-      "n": ["exploding head", "shocked face with exploding head"],
-      "u": "1f92f",
-      "a": "5.0"
-    },
-    { "n": ["face with cowboy hat"], "u": "1f920", "a": "3.0" },
-    {
-      "n": ["partying face", "face with party horn and party hat"],
-      "u": "1f973",
-      "a": "11.0"
-    },
-    { "n": ["disguised face"], "u": "1f978", "a": "13.0" },
-    {
-      "n": ["sunglasses", "smiling face with sunglasses"],
-      "u": "1f60e",
-      "a": "1.0"
-    },
-    { "n": ["nerd face"], "u": "1f913", "a": "1.0" },
-    { "n": ["face with monocle"], "u": "1f9d0", "a": "5.0" },
-    { "n": ["confused", "confused face"], "u": "1f615", "a": "1.0" },
-    { "n": ["face with diagonal mouth"], "u": "1fae4", "a": "14.0" },
-    { "n": ["worried", "worried face"], "u": "1f61f", "a": "1.0" },
-    { "n": ["slightly frowning face"], "u": "1f641", "a": "1.0" },
-    {
-      "n": ["frowning face", "white frowning face"],
-      "u": "2639-fe0f",
       "a": "0.7"
-    }
+    },
+    { "n": ["performing arts"], "u": "1f3ad", "a": "0.6" },
+    { "n": ["syringe"], "u": "1f489", "a": "0.6" },
+    {
+      "n": ["runner", "running"],
+      "u": "1f3c3",
+      "v": [
+        "1f3c3-1f3fb",
+        "1f3c3-1f3fc",
+        "1f3c3-1f3fd",
+        "1f3c3-1f3fe",
+        "1f3c3-1f3ff"
+      ],
+      "a": "0.6"
+    },
+    { "n": ["video game"], "u": "1f3ae", "a": "0.6" },
+    { "n": ["musical note"], "u": "1f3b5", "a": "0.6" },
+    { "n": ["cat", "cat2"], "u": "1f408", "a": "0.7" },
+    { "n": ["cat", "cat face"], "u": "1f431", "a": "0.6" },
+    { "n": ["desert island"], "u": "1f3dd-fe0f", "a": "0.7" },
+    {
+      "n": ["underage", "no one under eighteen symbol"],
+      "u": "1f51e",
+      "a": "0.6"
+    },
+    { "n": ["basketball", "basketball and hoop"], "u": "1f3c0", "a": "0.6" },
+    {
+      "n": ["bride with veil"],
+      "u": "1f470",
+      "v": [
+        "1f470-1f3fb",
+        "1f470-1f3fc",
+        "1f470-1f3fd",
+        "1f470-1f3fe",
+        "1f470-1f3ff"
+      ],
+      "a": "0.6"
+    },
+    { "n": ["musical score"], "u": "1f3bc", "a": "0.6" },
+    { "n": ["guitar"], "u": "1f3b8", "a": "0.6" },
+    { "n": ["airplane"], "u": "2708-fe0f", "a": "0.6" },
+    { "n": ["soccer", "soccer ball"], "u": "26bd", "a": "0.6" },
+    { "n": ["chequered flag", "checkered flag"], "u": "1f3c1", "a": "0.6" },
+    { "n": ["film projector"], "u": "1f4fd-fe0f", "a": "0.7" },
+    {
+      "n": [
+        "couple",
+        "man and woman holding hands",
+        "woman and man holding hands"
+      ],
+      "u": "1f46b",
+      "v": [
+        "1f46b-1f3fb",
+        "1f46b-1f3fc",
+        "1f46b-1f3fd",
+        "1f46b-1f3fe",
+        "1f46b-1f3ff",
+        "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc",
+        "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd",
+        "1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe",
+        "1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff",
+        "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb",
+        "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd",
+        "1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe",
+        "1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff",
+        "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb",
+        "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc",
+        "1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe",
+        "1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff",
+        "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb",
+        "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc",
+        "1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd",
+        "1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff",
+        "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb",
+        "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc",
+        "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd",
+        "1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe"
+      ],
+      "a": "0.6"
+    },
+    { "n": ["motorcycle", "racing motorcycle"], "u": "1f3cd-fe0f", "a": "0.7" },
+    { "n": ["hamburger"], "u": "1f354", "a": "0.6" },
+    { "n": ["horse", "horse face"], "u": "1f434", "a": "0.6" },
+    {
+      "n": ["haircut"],
+      "u": "1f487",
+      "v": [
+        "1f487-1f3fb",
+        "1f487-1f3fc",
+        "1f487-1f3fd",
+        "1f487-1f3fe",
+        "1f487-1f3ff"
+      ],
+      "a": "0.6"
+    },
+    {
+      "n": ["knife fork plate", "fork and knife with plate"],
+      "u": "1f37d-fe0f",
+      "a": "0.7"
+    },
+    {
+      "n": ["bicyclist"],
+      "u": "1f6b4",
+      "v": [
+        "1f6b4-1f3fb",
+        "1f6b4-1f3fc",
+        "1f6b4-1f3fd",
+        "1f6b4-1f3fe",
+        "1f6b4-1f3ff"
+      ],
+      "a": "1.0"
+    },
+    { "n": ["beach with umbrella"], "u": "1f3d6-fe0f", "a": "0.7" }
   ],
   "smileys_people": [
     { "n": ["grinning", "grinning face"], "u": "1f600", "a": "1.0" },
